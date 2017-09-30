@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+/Users/huangxiaolong/Desktop/eclipse-workspace/MOOCTextEditor/.metadata/.plugins/org.eclipse.jdt.core
